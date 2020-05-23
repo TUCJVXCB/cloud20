@@ -10,8 +10,10 @@
         <module name="cloud-eureka-server7002" />
         <module name="cloud-api-commons" />
         <module name="cloud-eureka-server7001" />
+        <module name="cloud-provider-payment8004" />
         <module name="cloud-provider-payment8002" />
         <module name="cloud-provider-payment8001" />
+        <module name="cloud-consumerzk-order80" />
         <module name="cloud-consumer-order80" />
       </profile>
     </annotationProcessing>
@@ -19,9 +21,11 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="cloud-api-commons" options="" />
+      <module name="cloud-consumerzk-order80" options="" />
       <module name="cloud-eureka-server7001" options="" />
       <module name="cloud-eureka-server7002" options="" />
       <module name="cloud-provider-payment8002" options="" />
+      <module name="cloud-provider-payment8004" options="" />
     </option>
   </component>
 </project>

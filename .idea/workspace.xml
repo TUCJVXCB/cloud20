@@ -17,10 +17,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectId" id="1cDF1Bp4KmIYgDL3qx9mOu9MJsq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -74,7 +78,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.PaymentMain8002">
+  <component name="RunManager" selected="Spring Boot.CloudConsumerzkOrder80Application">
     <configuration name="PaymentDaoTest.create" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="cloud-provider-payment8001" />
       <extension name="coverage">
@@ -107,6 +111,60 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="cloud-provider-payment8004" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="cloud-provider-payment8004" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudConsumerzkOrder80Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumerzk-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tanyu.springcloud.cloudconsumerzkorder80.CloudConsumerzkOrder80Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CloudEurekaServer7001Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-eureka-server7001" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tanyu.springcloud.cloudeurekaserver7001.CloudEurekaServer7001Application" />
@@ -117,6 +175,13 @@
     <configuration name="CloudEurekaServer7002Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-eureka-server7002" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tanyu.springcloud.cloudeurekaserver7002.CloudEurekaServer7002Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudProviderPayment8004Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-payment8004" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tanyu.springcloud.cloudproviderpayment8004.CloudProviderPayment8004Application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -175,7 +240,8 @@
       <updated>1590055039923</updated>
       <workItem from="1590055043420" duration="10496000" />
       <workItem from="1590116926305" duration="12077000" />
-      <workItem from="1590163111131" duration="6393000" />
+      <workItem from="1590163111131" duration="8420000" />
+      <workItem from="1590223893052" duration="2567000" />
     </task>
     <servers />
   </component>
@@ -197,61 +263,61 @@
       <screen x="-1920" y="-29" width="1920" height="967" />
     </state>
     <state x="-1125" y="217" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590077102070" />
-    <state width="958" height="246" key="GridCell.Tab.0.bottom" timestamp="1590215664276">
+    <state width="958" height="246" key="GridCell.Tab.0.bottom" timestamp="1590226119649">
       <screen x="-1920" y="-29" width="1920" height="967" />
     </state>
     <state width="958" height="201" key="GridCell.Tab.0.bottom/0.23.1440.787/-1920.-29.1920.1057@-1920.-29.1920.1057" timestamp="1590197150531" />
     <state width="958" height="201" key="GridCell.Tab.0.bottom/0.23.1440.787@0.23.1440.787" timestamp="1590163303754" />
-    <state width="958" height="246" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590215664276" />
+    <state width="958" height="246" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590226119649" />
     <state width="958" height="231" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-29.1920.967@0.23.1440.877" timestamp="1590142457769" />
-    <state width="958" height="246" key="GridCell.Tab.0.center" timestamp="1590215664275">
+    <state width="958" height="246" key="GridCell.Tab.0.center" timestamp="1590226119648">
       <screen x="-1920" y="-29" width="1920" height="967" />
     </state>
     <state width="958" height="201" key="GridCell.Tab.0.center/0.23.1440.787/-1920.-29.1920.1057@-1920.-29.1920.1057" timestamp="1590197150530" />
     <state width="958" height="201" key="GridCell.Tab.0.center/0.23.1440.787@0.23.1440.787" timestamp="1590163303753" />
-    <state width="958" height="246" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590215664275" />
+    <state width="958" height="246" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590226119648" />
     <state width="958" height="231" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-29.1920.967@0.23.1440.877" timestamp="1590142457768" />
-    <state width="958" height="246" key="GridCell.Tab.0.left" timestamp="1590215664274">
+    <state width="958" height="246" key="GridCell.Tab.0.left" timestamp="1590226119647">
       <screen x="-1920" y="-29" width="1920" height="967" />
     </state>
     <state width="958" height="201" key="GridCell.Tab.0.left/0.23.1440.787/-1920.-29.1920.1057@-1920.-29.1920.1057" timestamp="1590197150529" />
     <state width="958" height="201" key="GridCell.Tab.0.left/0.23.1440.787@0.23.1440.787" timestamp="1590163303753" />
-    <state width="958" height="246" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590215664274" />
+    <state width="958" height="246" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590226119647" />
     <state width="958" height="231" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-29.1920.967@0.23.1440.877" timestamp="1590142457767" />
-    <state width="958" height="246" key="GridCell.Tab.0.right" timestamp="1590215664276">
+    <state width="958" height="246" key="GridCell.Tab.0.right" timestamp="1590226119648">
       <screen x="-1920" y="-29" width="1920" height="967" />
     </state>
     <state width="958" height="201" key="GridCell.Tab.0.right/0.23.1440.787/-1920.-29.1920.1057@-1920.-29.1920.1057" timestamp="1590197150531" />
     <state width="958" height="201" key="GridCell.Tab.0.right/0.23.1440.787@0.23.1440.787" timestamp="1590163303754" />
-    <state width="958" height="246" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590215664276" />
+    <state width="958" height="246" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590226119648" />
     <state width="958" height="231" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-29.1920.967@0.23.1440.877" timestamp="1590142457769" />
-    <state width="958" height="246" key="GridCell.Tab.1.bottom" timestamp="1590215664278">
+    <state width="958" height="246" key="GridCell.Tab.1.bottom" timestamp="1590226119650">
       <screen x="-1920" y="-29" width="1920" height="967" />
     </state>
     <state width="958" height="201" key="GridCell.Tab.1.bottom/0.23.1440.787/-1920.-29.1920.1057@-1920.-29.1920.1057" timestamp="1590197150533" />
     <state width="958" height="201" key="GridCell.Tab.1.bottom/0.23.1440.787@0.23.1440.787" timestamp="1590163303755" />
-    <state width="958" height="246" key="GridCell.Tab.1.bottom/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590215664278" />
+    <state width="958" height="246" key="GridCell.Tab.1.bottom/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590226119650" />
     <state width="958" height="231" key="GridCell.Tab.1.bottom/0.23.1440.877/-1920.-29.1920.967@0.23.1440.877" timestamp="1590142457771" />
-    <state width="958" height="246" key="GridCell.Tab.1.center" timestamp="1590215664277">
+    <state width="958" height="246" key="GridCell.Tab.1.center" timestamp="1590226119649">
       <screen x="-1920" y="-29" width="1920" height="967" />
     </state>
     <state width="958" height="201" key="GridCell.Tab.1.center/0.23.1440.787/-1920.-29.1920.1057@-1920.-29.1920.1057" timestamp="1590197150532" />
     <state width="958" height="201" key="GridCell.Tab.1.center/0.23.1440.787@0.23.1440.787" timestamp="1590163303755" />
-    <state width="958" height="246" key="GridCell.Tab.1.center/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590215664277" />
+    <state width="958" height="246" key="GridCell.Tab.1.center/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590226119649" />
     <state width="958" height="231" key="GridCell.Tab.1.center/0.23.1440.877/-1920.-29.1920.967@0.23.1440.877" timestamp="1590142457770" />
-    <state width="958" height="246" key="GridCell.Tab.1.left" timestamp="1590215664276">
+    <state width="958" height="246" key="GridCell.Tab.1.left" timestamp="1590226119649">
       <screen x="-1920" y="-29" width="1920" height="967" />
     </state>
     <state width="958" height="201" key="GridCell.Tab.1.left/0.23.1440.787/-1920.-29.1920.1057@-1920.-29.1920.1057" timestamp="1590197150532" />
     <state width="958" height="201" key="GridCell.Tab.1.left/0.23.1440.787@0.23.1440.787" timestamp="1590163303754" />
-    <state width="958" height="246" key="GridCell.Tab.1.left/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590215664276" />
+    <state width="958" height="246" key="GridCell.Tab.1.left/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590226119649" />
     <state width="958" height="231" key="GridCell.Tab.1.left/0.23.1440.877/-1920.-29.1920.967@0.23.1440.877" timestamp="1590142457770" />
-    <state width="958" height="246" key="GridCell.Tab.1.right" timestamp="1590215664277">
+    <state width="958" height="246" key="GridCell.Tab.1.right" timestamp="1590226119649">
       <screen x="-1920" y="-29" width="1920" height="967" />
     </state>
     <state width="958" height="201" key="GridCell.Tab.1.right/0.23.1440.787/-1920.-29.1920.1057@-1920.-29.1920.1057" timestamp="1590197150532" />
     <state width="958" height="201" key="GridCell.Tab.1.right/0.23.1440.787@0.23.1440.787" timestamp="1590163303755" />
-    <state width="958" height="246" key="GridCell.Tab.1.right/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590215664277" />
+    <state width="958" height="246" key="GridCell.Tab.1.right/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590226119649" />
     <state width="958" height="231" key="GridCell.Tab.1.right/0.23.1440.877/-1920.-29.1920.967@0.23.1440.877" timestamp="1590142457771" />
     <state x="-1350" y="198" key="IDE.errors.dialog" timestamp="1590115519163">
       <screen x="-1920" y="-29" width="1920" height="967" />
@@ -267,12 +333,12 @@
     <state x="221" y="88" key="SettingsEditor/0.23.1440.787@0.23.1440.787" timestamp="1590079139517" />
     <state x="-1625" y="51" key="SettingsEditor/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590121265626" />
     <state x="221" y="100" key="SettingsEditor/0.23.1440.877/-1920.-29.1920.967@0.23.1440.877" timestamp="1590055245340" />
-    <state width="500" height="521" key="SwitcherDM" timestamp="1590199281082">
-      <screen x="-1920" y="-29" width="1920" height="1057" />
+    <state width="500" height="476" key="SwitcherDM" timestamp="1590226436830">
+      <screen x="-1920" y="-29" width="1920" height="967" />
     </state>
     <state width="500" height="521" key="SwitcherDM/0.23.1440.787/-1920.-29.1920.1057@-1920.-29.1920.1057" timestamp="1590199281081" />
     <state width="500" height="476" key="SwitcherDM/0.23.1440.787@0.23.1440.787" timestamp="1590161895648" />
-    <state width="500" height="476" key="SwitcherDM/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590197440308" />
+    <state width="500" height="476" key="SwitcherDM/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590226436830" />
     <state width="500" height="436" key="SwitcherDM/0.23.1440.877/-1920.-29.1920.967@0.23.1440.877" timestamp="1590141283784" />
     <state x="-1164" y="311" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1590076598985">
       <screen x="-1920" y="-29" width="1920" height="967" />
@@ -282,11 +348,11 @@
       <screen x="-1920" y="-29" width="1920" height="967" />
     </state>
     <state x="-1112" y="239" width="586" height="548" key="find.popup/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590201048570" />
-    <state x="-1433" y="181" key="new project wizard" timestamp="1590198672331">
+    <state x="-1402" y="181" key="new project wizard" timestamp="1590226251535">
       <screen x="-1920" y="-29" width="1920" height="967" />
     </state>
     <state x="-1433" y="201" key="new project wizard/0.23.1440.787/-1920.-29.1920.1057@-1920.-29.1920.1057" timestamp="1590136379749" />
-    <state x="-1433" y="181" key="new project wizard/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590198672331" />
+    <state x="-1402" y="181" key="new project wizard/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590226251535" />
     <state x="88" y="124" key="new project wizard/0.23.1440.877/-1920.-29.1920.967@0.23.1440.877" timestamp="1590142450040" />
   </component>
 </project>
