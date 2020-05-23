@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d4a9ec5a-24a3-43ba-bf62-93f03845928a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="MyBatis Mapper" />
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1cDF1Bp4KmIYgDL3qx9mOu9MJsq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cloud-provider-payment8002/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="cn.tanyu.springcloud.dao" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.tanyu.springcloud" />
+      <recent name="cn.tanyu.springcloud.entity" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cloud-provider-payment8002/src/main/resources" />
+      <recent name="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/cn/tanyu/springcloud" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/cloud-api-commons/src/main/java/cn/tanyu/springcloud/cloudapicommons" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.PaymentMain8002">
+    <configuration name="PaymentDaoTest.create" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cloud-provider-payment8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tanyu.springcloud.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.tanyu.springcloud.dao" />
+      <option name="MAIN_CLASS_NAME" value="cn.tanyu.springcloud.dao.PaymentDaoTest" />
+      <option name="METHOD_NAME" value="create" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentDaoTest.getPaymentById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cloud-provider-payment8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tanyu.springcloud.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.tanyu.springcloud.dao" />
+      <option name="MAIN_CLASS_NAME" value="cn.tanyu.springcloud.dao.PaymentDaoTest" />
+      <option name="METHOD_NAME" value="getPaymentById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudEurekaServer7001Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-eureka-server7001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tanyu.springcloud.cloudeurekaserver7001.CloudEurekaServer7001Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudEurekaServer7002Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-eureka-server7002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tanyu.springcloud.cloudeurekaserver7002.CloudEurekaServer7002Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-consumer-order80" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tanyu.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tanyu.springcloud.OrderMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Payment8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-payment8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tanyu.springcloud.PaymentMain8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-provider-payment8002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tanyu.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tanyu.springcloud.PaymentMain8002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.PaymentMain8002" />
+        <item itemvalue="Spring Boot.OrderMain80" />
+        <item itemvalue="JUnit.PaymentDaoTest.getPaymentById" />
+        <item itemvalue="JUnit.PaymentDaoTest.create" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4a9ec5a-24a3-43ba-bf62-93f03845928a" name="Default Changelist" comment="" />
+      <created>1590055039923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590055039923</updated>
+      <workItem from="1590055043420" duration="10496000" />
+      <workItem from="1590116926305" duration="12077000" />
+      <workItem from="1590163111131" duration="6393000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-942" y="383" key="#Notifications" timestamp="1590215336499">
+      <screen x="-1920" y="-29" width="1920" height="967" />
+    </state>
+    <state x="-942" y="383" key="#Notifications/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590215336499" />
+    <state x="-1643" y="-5" key="#Project_Structure" timestamp="1590136389560">
+      <screen x="-1920" y="-29" width="1920" height="1057" />
+    </state>
+    <state x="-1643" y="-5" key="#Project_Structure/0.23.1440.787/-1920.-29.1920.1057@-1920.-29.1920.1057" timestamp="1590136389560" />
+    <state x="-1643" y="-7" key="#Project_Structure/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590120952358" />
+    <state x="208" y="43" key="#Project_Structure/0.23.1440.877/-1920.-29.1920.967@0.23.1440.877" timestamp="1590071127379" />
+    <state x="-1125" y="217" key="#com.intellij.ide.util.MemberChooser" timestamp="1590077102070">
+      <screen x="-1920" y="-29" width="1920" height="967" />
+    </state>
+    <state x="-1125" y="217" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590077102070" />
+    <state width="958" height="246" key="GridCell.Tab.0.bottom" timestamp="1590215664276">
+      <screen x="-1920" y="-29" width="1920" height="967" />
+    </state>
+    <state width="958" height="201" key="GridCell.Tab.0.bottom/0.23.1440.787/-1920.-29.1920.1057@-1920.-29.1920.1057" timestamp="1590197150531" />
+    <state width="958" height="201" key="GridCell.Tab.0.bottom/0.23.1440.787@0.23.1440.787" timestamp="1590163303754" />
+    <state width="958" height="246" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590215664276" />
+    <state width="958" height="231" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-29.1920.967@0.23.1440.877" timestamp="1590142457769" />
+    <state width="958" height="246" key="GridCell.Tab.0.center" timestamp="1590215664275">
+      <screen x="-1920" y="-29" width="1920" height="967" />
+    </state>
+    <state width="958" height="201" key="GridCell.Tab.0.center/0.23.1440.787/-1920.-29.1920.1057@-1920.-29.1920.1057" timestamp="1590197150530" />
+    <state width="958" height="201" key="GridCell.Tab.0.center/0.23.1440.787@0.23.1440.787" timestamp="1590163303753" />
+    <state width="958" height="246" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590215664275" />
+    <state width="958" height="231" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-29.1920.967@0.23.1440.877" timestamp="1590142457768" />
+    <state width="958" height="246" key="GridCell.Tab.0.left" timestamp="1590215664274">
+      <screen x="-1920" y="-29" width="1920" height="967" />
+    </state>
+    <state width="958" height="201" key="GridCell.Tab.0.left/0.23.1440.787/-1920.-29.1920.1057@-1920.-29.1920.1057" timestamp="1590197150529" />
+    <state width="958" height="201" key="GridCell.Tab.0.left/0.23.1440.787@0.23.1440.787" timestamp="1590163303753" />
+    <state width="958" height="246" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590215664274" />
+    <state width="958" height="231" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-29.1920.967@0.23.1440.877" timestamp="1590142457767" />
+    <state width="958" height="246" key="GridCell.Tab.0.right" timestamp="1590215664276">
+      <screen x="-1920" y="-29" width="1920" height="967" />
+    </state>
+    <state width="958" height="201" key="GridCell.Tab.0.right/0.23.1440.787/-1920.-29.1920.1057@-1920.-29.1920.1057" timestamp="1590197150531" />
+    <state width="958" height="201" key="GridCell.Tab.0.right/0.23.1440.787@0.23.1440.787" timestamp="1590163303754" />
+    <state width="958" height="246" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590215664276" />
+    <state width="958" height="231" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-29.1920.967@0.23.1440.877" timestamp="1590142457769" />
+    <state width="958" height="246" key="GridCell.Tab.1.bottom" timestamp="1590215664278">
+      <screen x="-1920" y="-29" width="1920" height="967" />
+    </state>
+    <state width="958" height="201" key="GridCell.Tab.1.bottom/0.23.1440.787/-1920.-29.1920.1057@-1920.-29.1920.1057" timestamp="1590197150533" />
+    <state width="958" height="201" key="GridCell.Tab.1.bottom/0.23.1440.787@0.23.1440.787" timestamp="1590163303755" />
+    <state width="958" height="246" key="GridCell.Tab.1.bottom/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590215664278" />
+    <state width="958" height="231" key="GridCell.Tab.1.bottom/0.23.1440.877/-1920.-29.1920.967@0.23.1440.877" timestamp="1590142457771" />
+    <state width="958" height="246" key="GridCell.Tab.1.center" timestamp="1590215664277">
+      <screen x="-1920" y="-29" width="1920" height="967" />
+    </state>
+    <state width="958" height="201" key="GridCell.Tab.1.center/0.23.1440.787/-1920.-29.1920.1057@-1920.-29.1920.1057" timestamp="1590197150532" />
+    <state width="958" height="201" key="GridCell.Tab.1.center/0.23.1440.787@0.23.1440.787" timestamp="1590163303755" />
+    <state width="958" height="246" key="GridCell.Tab.1.center/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590215664277" />
+    <state width="958" height="231" key="GridCell.Tab.1.center/0.23.1440.877/-1920.-29.1920.967@0.23.1440.877" timestamp="1590142457770" />
+    <state width="958" height="246" key="GridCell.Tab.1.left" timestamp="1590215664276">
+      <screen x="-1920" y="-29" width="1920" height="967" />
+    </state>
+    <state width="958" height="201" key="GridCell.Tab.1.left/0.23.1440.787/-1920.-29.1920.1057@-1920.-29.1920.1057" timestamp="1590197150532" />
+    <state width="958" height="201" key="GridCell.Tab.1.left/0.23.1440.787@0.23.1440.787" timestamp="1590163303754" />
+    <state width="958" height="246" key="GridCell.Tab.1.left/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590215664276" />
+    <state width="958" height="231" key="GridCell.Tab.1.left/0.23.1440.877/-1920.-29.1920.967@0.23.1440.877" timestamp="1590142457770" />
+    <state width="958" height="246" key="GridCell.Tab.1.right" timestamp="1590215664277">
+      <screen x="-1920" y="-29" width="1920" height="967" />
+    </state>
+    <state width="958" height="201" key="GridCell.Tab.1.right/0.23.1440.787/-1920.-29.1920.1057@-1920.-29.1920.1057" timestamp="1590197150532" />
+    <state width="958" height="201" key="GridCell.Tab.1.right/0.23.1440.787@0.23.1440.787" timestamp="1590163303755" />
+    <state width="958" height="246" key="GridCell.Tab.1.right/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590215664277" />
+    <state width="958" height="231" key="GridCell.Tab.1.right/0.23.1440.877/-1920.-29.1920.967@0.23.1440.877" timestamp="1590142457771" />
+    <state x="-1350" y="198" key="IDE.errors.dialog" timestamp="1590115519163">
+      <screen x="-1920" y="-29" width="1920" height="967" />
+    </state>
+    <state x="-1350" y="198" key="IDE.errors.dialog/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590115519163" />
+    <state x="246" y="228" width="948" height="514" key="Registry" timestamp="1590079132425">
+      <screen x="0" y="23" width="1440" height="787" />
+    </state>
+    <state x="246" y="228" width="948" height="514" key="Registry/0.23.1440.787@0.23.1440.787" timestamp="1590079132425" />
+    <state x="-1625" y="51" key="SettingsEditor" timestamp="1590121265626">
+      <screen x="-1920" y="-29" width="1920" height="967" />
+    </state>
+    <state x="221" y="88" key="SettingsEditor/0.23.1440.787@0.23.1440.787" timestamp="1590079139517" />
+    <state x="-1625" y="51" key="SettingsEditor/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590121265626" />
+    <state x="221" y="100" key="SettingsEditor/0.23.1440.877/-1920.-29.1920.967@0.23.1440.877" timestamp="1590055245340" />
+    <state width="500" height="521" key="SwitcherDM" timestamp="1590199281082">
+      <screen x="-1920" y="-29" width="1920" height="1057" />
+    </state>
+    <state width="500" height="521" key="SwitcherDM/0.23.1440.787/-1920.-29.1920.1057@-1920.-29.1920.1057" timestamp="1590199281081" />
+    <state width="500" height="476" key="SwitcherDM/0.23.1440.787@0.23.1440.787" timestamp="1590161895648" />
+    <state width="500" height="476" key="SwitcherDM/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590197440308" />
+    <state width="500" height="436" key="SwitcherDM/0.23.1440.877/-1920.-29.1920.967@0.23.1440.877" timestamp="1590141283784" />
+    <state x="-1164" y="311" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1590076598985">
+      <screen x="-1920" y="-29" width="1920" height="967" />
+    </state>
+    <state x="-1164" y="311" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590076598985" />
+    <state x="-1112" y="239" width="586" height="548" key="find.popup" timestamp="1590201048570">
+      <screen x="-1920" y="-29" width="1920" height="967" />
+    </state>
+    <state x="-1112" y="239" width="586" height="548" key="find.popup/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590201048570" />
+    <state x="-1433" y="181" key="new project wizard" timestamp="1590198672331">
+      <screen x="-1920" y="-29" width="1920" height="967" />
+    </state>
+    <state x="-1433" y="201" key="new project wizard/0.23.1440.787/-1920.-29.1920.1057@-1920.-29.1920.1057" timestamp="1590136379749" />
+    <state x="-1433" y="181" key="new project wizard/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590198672331" />
+    <state x="88" y="124" key="new project wizard/0.23.1440.877/-1920.-29.1920.967@0.23.1440.877" timestamp="1590142450040" />
+  </component>
+</project>
