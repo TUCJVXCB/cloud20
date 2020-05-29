@@ -16,8 +16,9 @@
         <module name="cloud-provider-payment8001" />
         <module name="cloud-consumerzk-order80" />
         <module name="cloud-consumer-order80" />
-        <module name="cloud-consumer-feign-order80" />
+        <module name="cloud-gateway-gateway9527" />
         <module name="cloud-provider-hystrix-payment8001" />
+        <module name="cloud-consumer-feign-order80" />
       </profile>
     </annotationProcessing>
   </component>
@@ -29,6 +30,7 @@
       <module name="cloud-consumerzk-order80" options="" />
       <module name="cloud-eureka-server7001" options="" />
       <module name="cloud-eureka-server7002" options="" />
+      <module name="cloud-gateway-gateway9527" options="" />
       <module name="cloud-provider-hystrix-payment8001" options="" />
       <module name="cloud-provider-payment8002" options="" />
       <module name="cloud-provider-payment8004" options="" />
