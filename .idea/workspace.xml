@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4a9ec5a-24a3-43ba-bf62-93f03845928a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/cn/tanyu/springcloud/cloudproviderhystrixpayment8001/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/cn/tanyu/springcloud/cloudproviderhystrixpayment8001/controller/PaymentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/cn/tanyu/springcloud/cloudproviderhystrixpayment8001/service/PaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/src/main/java/cn/tanyu/springcloud/cloudproviderhystrixpayment8001/service/PaymentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/cn/tanyu/springcloud/cloudproviderhystrixpayment8001/controller/PaymentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/cn/tanyu/springcloud/cloudproviderhystrixpayment8001/controller/PaymentController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/cn/tanyu/springcloud/cloudproviderhystrixpayment8001/service/PaymentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/cn/tanyu/springcloud/cloudproviderhystrixpayment8001/service/PaymentService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config-client-3355/src/main/java/cn/tanyu/springcloud/controller/ConfigClientController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-api-commons/src/main/java/cn/tanyu/springcloud/cloudapicommons/entity/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-api-commons/src/main/java/cn/tanyu/springcloud/cloudapicommons/entity/Payment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-api-commons/target/classes/cn/tanyu/springcloud/cloudapicommons/entity/Payment.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-api-commons/target/classes/cn/tanyu/springcloud/cloudapicommons/entity/Payment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +15,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="MyBatis Mapper" />
-        <option value="JUnit5 Test Class" />
         <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="MyBatis Mapper" />
         <option value="Class" />
       </list>
     </option>
@@ -46,7 +46,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/cloud-provider-payment8002/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/seata-order-service2001/src/main/resources" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -62,7 +62,12 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="cn.tanyu.springcloud.dao" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/seata-order-service2001/src/main/resources/mapper" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.tanyu.springcloud.config" />
+      <recent name="cn.tanyu.springcloud.controller" />
       <recent name="cn.tanyu.springcloud" />
       <recent name="cn.tanyu.springcloud.entity" />
     </key>
@@ -70,10 +75,11 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/seata-order-service2001/src/main/resources" />
+      <recent name="$PROJECT_DIR$/seata-order-service2003/src/main/resources" />
+      <recent name="$PROJECT_DIR$/seata-order-service2002/src/main/resources" />
+      <recent name="$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/src/main/resources" />
       <recent name="$PROJECT_DIR$/cloud-provider-payment8002/src/main/resources" />
-      <recent name="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/cn/tanyu/springcloud" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/cloud-api-commons/src/main/java/cn/tanyu/springcloud/cloudapicommons" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -83,7 +89,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.CloudGatewayGateway9527Application">
+  <component name="RunManager" selected="JUnit.StorageDaoTest.decrease">
     <configuration name="CloudGatewayGateway9527ApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="cloud-gateway-gateway9527" />
       <extension name="coverage">
@@ -100,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PaymentDaoTest.create" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="cloud-provider-payment8001" />
+    <configuration name="OrderDaoTest.create" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="seata-order-service2001" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cn.tanyu.springcloud.dao.*" />
@@ -109,15 +115,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="cn.tanyu.springcloud.dao" />
-      <option name="MAIN_CLASS_NAME" value="cn.tanyu.springcloud.dao.PaymentDaoTest" />
+      <option name="MAIN_CLASS_NAME" value="cn.tanyu.springcloud.dao.OrderDaoTest" />
       <option name="METHOD_NAME" value="create" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PaymentDaoTest.getPaymentById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="cloud-provider-payment8001" />
+    <configuration name="OrderDaoTest.update" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="seata-order-service2001" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cn.tanyu.springcloud.dao.*" />
@@ -125,8 +131,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="cn.tanyu.springcloud.dao" />
-      <option name="MAIN_CLASS_NAME" value="cn.tanyu.springcloud.dao.PaymentDaoTest" />
-      <option name="METHOD_NAME" value="getPaymentById" />
+      <option name="MAIN_CLASS_NAME" value="cn.tanyu.springcloud.dao.OrderDaoTest" />
+      <option name="METHOD_NAME" value="update" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StorageDaoTest.decrease" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="seata-order-service2002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.tanyu.springcloud.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.tanyu.springcloud.dao" />
+      <option name="MAIN_CLASS_NAME" value="cn.tanyu.springcloud.dao.StorageDaoTest" />
+      <option name="METHOD_NAME" value="decrease" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -175,6 +197,34 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" />
       <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudConfigCenter3344Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-config-center-3344" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tanyu.springcloud.CloudConfigCenter3344Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudConfigClient3355Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-config-client-3355" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tanyu.springcloud.CloudConfigClient3355Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudConfigClient3366Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-config-client-3366" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tanyu.springcloud.CloudConfigClient3366Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudConfigClient3366Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-config-client-3366" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tanyu.springcloud.cloudconfigclient3366.CloudConfigClient3366Application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -235,14 +285,64 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrderMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="CloudalibabaConfigNacosClient3377Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudalibaba-config-nacos-client3377" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tanyu.springcloud.CloudalibabaConfigNacosClient3377Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudalibabaConsumerNacosOrder83Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudalibaba-consumer-nacos-order83" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tanyu.springcloud.CloudalibabaConsumerNacosOrder83Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudalibabaConsumerNacosOrder84Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudalibaba-consumer-nacos-order84" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tanyu.springcloud.CloudalibabaConsumerNacosOrder84Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudalibabaProviderPayment9001Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudalibaba-provider-payment9001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tanyu.springcloud.CloudalibabaProviderPayment9001Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudalibabaProviderPayment9002Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudalibaba-provider-payment9002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tanyu.springcloud.CloudalibabaProviderPayment9002Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudalibabaProviderPayment9003Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudalibaba-provider-payment9003" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tanyu.springcloud.CloudalibabaProviderPayment9003Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudalibabaProviderPayment9004Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudalibaba-provider-payment9004" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tanyu.springcloud.CloudalibabaProviderPayment9004Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloudalibabaSentinelService8401Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloudalibaba-sentinel-service8401" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tanyu.springcloud.CloudalibabaSentinelService8401Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-consumer-order80" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.tanyu.springcloud.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tanyu.springcloud.OrderMain80" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -268,13 +368,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SeataOrderService2001Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="seata-order-service2001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tanyu.springcloud.SeataOrderService2001Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeataOrderService2002Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="seata-order-service2002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tanyu.springcloud.SeataOrderService2002Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeataOrderService2003Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="seata-order-service2003" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.tanyu.springcloud.SeataOrderService2003Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.StorageDaoTest.decrease" />
+        <item itemvalue="JUnit.OrderDaoTest.update" />
+        <item itemvalue="JUnit.OrderDaoTest.create" />
         <item itemvalue="Spring Boot.PaymentMain8002" />
         <item itemvalue="JUnit.CloudGatewayGateway9527ApplicationTests.contextLoads" />
-        <item itemvalue="Spring Boot.OrderMain80" />
-        <item itemvalue="JUnit.PaymentDaoTest.getPaymentById" />
-        <item itemvalue="JUnit.PaymentDaoTest.create" />
       </list>
     </recent_temporary>
   </component>
@@ -299,7 +420,10 @@
       <workItem from="1590543934747" duration="1407000" />
       <workItem from="1590571862859" duration="7039000" />
       <workItem from="1590720491651" duration="1020000" />
-      <workItem from="1590721551532" duration="5785000" />
+      <workItem from="1590721551532" duration="8723000" />
+      <workItem from="1590762909724" duration="8339000" />
+      <workItem from="1590826758700" duration="22459000" />
+      <workItem from="1591062935344" duration="42669000" />
     </task>
     <servers />
   </component>
@@ -311,72 +435,76 @@
       <screen x="-1920" y="-29" width="1920" height="967" />
     </state>
     <state x="-942" y="383" key="#Notifications/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590215336499" />
-    <state x="-1643" y="-5" key="#Project_Structure" timestamp="1590136389560">
-      <screen x="-1920" y="-29" width="1920" height="1057" />
+    <state x="-1643" y="-7" key="#Project_Structure" timestamp="1591155933444">
+      <screen x="-1920" y="-29" width="1920" height="967" />
     </state>
     <state x="-1643" y="-5" key="#Project_Structure/0.23.1440.787/-1920.-29.1920.1057@-1920.-29.1920.1057" timestamp="1590136389560" />
-    <state x="-1643" y="-7" key="#Project_Structure/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590120952358" />
+    <state x="-1643" y="-7" key="#Project_Structure/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1591155933444" />
     <state x="208" y="43" key="#Project_Structure/0.23.1440.877/-1920.-29.1920.967@0.23.1440.877" timestamp="1590071127379" />
-    <state x="-1125" y="217" key="#com.intellij.ide.util.MemberChooser" timestamp="1590742869924">
+    <state x="-1125" y="217" key="#com.intellij.ide.util.MemberChooser" timestamp="1591345972262">
       <screen x="-1920" y="-29" width="1920" height="967" />
     </state>
-    <state x="-1125" y="217" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590742869924" />
-    <state width="923" height="298" key="GridCell.Tab.0.bottom" timestamp="1590740432342">
+    <state x="-1125" y="217" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1591345972262" />
+    <state x="-1530" y="222" width="1240" height="587" key="DiffContextDialog" timestamp="1591349237363">
       <screen x="-1920" y="-29" width="1920" height="967" />
     </state>
-    <state width="923" height="298" key="GridCell.Tab.0.bottom/0.23.1440.787/-1920.-29.1920.1057@-1920.-29.1920.1057" timestamp="1590671057987" />
-    <state width="958" height="298" key="GridCell.Tab.0.bottom/0.23.1440.787@0.23.1440.787" timestamp="1590508760969" />
-    <state width="923" height="298" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590740432342" />
-    <state width="958" height="231" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-29.1920.967@0.23.1440.877" timestamp="1590142457769" />
-    <state width="923" height="298" key="GridCell.Tab.0.center" timestamp="1590740432341">
+    <state x="-1530" y="222" width="1240" height="587" key="DiffContextDialog/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1591349237363" />
+    <state width="923" height="301" key="GridCell.Tab.0.bottom" timestamp="1591363208789">
       <screen x="-1920" y="-29" width="1920" height="967" />
     </state>
-    <state width="923" height="298" key="GridCell.Tab.0.center/0.23.1440.787/-1920.-29.1920.1057@-1920.-29.1920.1057" timestamp="1590671057986" />
-    <state width="958" height="298" key="GridCell.Tab.0.center/0.23.1440.787@0.23.1440.787" timestamp="1590508760969" />
-    <state width="923" height="298" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590740432341" />
-    <state width="958" height="231" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-29.1920.967@0.23.1440.877" timestamp="1590142457768" />
-    <state width="923" height="298" key="GridCell.Tab.0.left" timestamp="1590740432340">
+    <state width="923" height="243" key="GridCell.Tab.0.bottom/0.23.1440.787/-1920.-29.1920.1057@-1920.-29.1920.1057" timestamp="1591285221789" />
+    <state width="923" height="317" key="GridCell.Tab.0.bottom/0.23.1440.787@0.23.1440.787" timestamp="1590852567588" />
+    <state width="923" height="301" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1591363208789" />
+    <state width="923" height="317" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-29.1920.967@0.23.1440.877" timestamp="1590980930625" />
+    <state width="923" height="301" key="GridCell.Tab.0.center" timestamp="1591363208788">
       <screen x="-1920" y="-29" width="1920" height="967" />
     </state>
-    <state width="923" height="298" key="GridCell.Tab.0.left/0.23.1440.787/-1920.-29.1920.1057@-1920.-29.1920.1057" timestamp="1590671057985" />
-    <state width="958" height="298" key="GridCell.Tab.0.left/0.23.1440.787@0.23.1440.787" timestamp="1590508760968" />
-    <state width="923" height="298" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590740432340" />
-    <state width="958" height="231" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-29.1920.967@0.23.1440.877" timestamp="1590142457767" />
-    <state width="923" height="298" key="GridCell.Tab.0.right" timestamp="1590740432342">
+    <state width="923" height="243" key="GridCell.Tab.0.center/0.23.1440.787/-1920.-29.1920.1057@-1920.-29.1920.1057" timestamp="1591285221788" />
+    <state width="923" height="317" key="GridCell.Tab.0.center/0.23.1440.787@0.23.1440.787" timestamp="1590852567587" />
+    <state width="923" height="301" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1591363208788" />
+    <state width="923" height="317" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-29.1920.967@0.23.1440.877" timestamp="1590980930623" />
+    <state width="923" height="301" key="GridCell.Tab.0.left" timestamp="1591363208787">
       <screen x="-1920" y="-29" width="1920" height="967" />
     </state>
-    <state width="923" height="298" key="GridCell.Tab.0.right/0.23.1440.787/-1920.-29.1920.1057@-1920.-29.1920.1057" timestamp="1590671057986" />
-    <state width="958" height="298" key="GridCell.Tab.0.right/0.23.1440.787@0.23.1440.787" timestamp="1590508760969" />
-    <state width="923" height="298" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590740432342" />
-    <state width="958" height="231" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-29.1920.967@0.23.1440.877" timestamp="1590142457769" />
-    <state width="923" height="298" key="GridCell.Tab.1.bottom" timestamp="1590740432344">
+    <state width="923" height="243" key="GridCell.Tab.0.left/0.23.1440.787/-1920.-29.1920.1057@-1920.-29.1920.1057" timestamp="1591285221787" />
+    <state width="923" height="317" key="GridCell.Tab.0.left/0.23.1440.787@0.23.1440.787" timestamp="1590852567587" />
+    <state width="923" height="301" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1591363208787" />
+    <state width="923" height="317" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-29.1920.967@0.23.1440.877" timestamp="1590980930622" />
+    <state width="923" height="301" key="GridCell.Tab.0.right" timestamp="1591363208788">
       <screen x="-1920" y="-29" width="1920" height="967" />
     </state>
-    <state width="923" height="298" key="GridCell.Tab.1.bottom/0.23.1440.787/-1920.-29.1920.1057@-1920.-29.1920.1057" timestamp="1590671057988" />
-    <state width="958" height="298" key="GridCell.Tab.1.bottom/0.23.1440.787@0.23.1440.787" timestamp="1590508760970" />
-    <state width="923" height="298" key="GridCell.Tab.1.bottom/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590740432344" />
-    <state width="958" height="231" key="GridCell.Tab.1.bottom/0.23.1440.877/-1920.-29.1920.967@0.23.1440.877" timestamp="1590142457771" />
-    <state width="923" height="298" key="GridCell.Tab.1.center" timestamp="1590740432343">
+    <state width="923" height="243" key="GridCell.Tab.0.right/0.23.1440.787/-1920.-29.1920.1057@-1920.-29.1920.1057" timestamp="1591285221788" />
+    <state width="923" height="317" key="GridCell.Tab.0.right/0.23.1440.787@0.23.1440.787" timestamp="1590852567588" />
+    <state width="923" height="301" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1591363208788" />
+    <state width="923" height="317" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-29.1920.967@0.23.1440.877" timestamp="1590980930623" />
+    <state width="923" height="301" key="GridCell.Tab.1.bottom" timestamp="1591363208791">
       <screen x="-1920" y="-29" width="1920" height="967" />
     </state>
-    <state width="923" height="298" key="GridCell.Tab.1.center/0.23.1440.787/-1920.-29.1920.1057@-1920.-29.1920.1057" timestamp="1590671057987" />
-    <state width="958" height="298" key="GridCell.Tab.1.center/0.23.1440.787@0.23.1440.787" timestamp="1590508760970" />
-    <state width="923" height="298" key="GridCell.Tab.1.center/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590740432343" />
-    <state width="958" height="231" key="GridCell.Tab.1.center/0.23.1440.877/-1920.-29.1920.967@0.23.1440.877" timestamp="1590142457770" />
-    <state width="923" height="298" key="GridCell.Tab.1.left" timestamp="1590740432343">
+    <state width="923" height="243" key="GridCell.Tab.1.bottom/0.23.1440.787/-1920.-29.1920.1057@-1920.-29.1920.1057" timestamp="1591285221790" />
+    <state width="923" height="317" key="GridCell.Tab.1.bottom/0.23.1440.787@0.23.1440.787" timestamp="1590852567589" />
+    <state width="923" height="301" key="GridCell.Tab.1.bottom/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1591363208791" />
+    <state width="923" height="317" key="GridCell.Tab.1.bottom/0.23.1440.877/-1920.-29.1920.967@0.23.1440.877" timestamp="1590980930628" />
+    <state width="923" height="301" key="GridCell.Tab.1.center" timestamp="1591363208790">
       <screen x="-1920" y="-29" width="1920" height="967" />
     </state>
-    <state width="923" height="298" key="GridCell.Tab.1.left/0.23.1440.787/-1920.-29.1920.1057@-1920.-29.1920.1057" timestamp="1590671057987" />
-    <state width="958" height="298" key="GridCell.Tab.1.left/0.23.1440.787@0.23.1440.787" timestamp="1590508760970" />
-    <state width="923" height="298" key="GridCell.Tab.1.left/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590740432343" />
-    <state width="958" height="231" key="GridCell.Tab.1.left/0.23.1440.877/-1920.-29.1920.967@0.23.1440.877" timestamp="1590142457770" />
-    <state width="923" height="298" key="GridCell.Tab.1.right" timestamp="1590740432343">
+    <state width="923" height="243" key="GridCell.Tab.1.center/0.23.1440.787/-1920.-29.1920.1057@-1920.-29.1920.1057" timestamp="1591285221789" />
+    <state width="923" height="317" key="GridCell.Tab.1.center/0.23.1440.787@0.23.1440.787" timestamp="1590852567589" />
+    <state width="923" height="301" key="GridCell.Tab.1.center/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1591363208790" />
+    <state width="923" height="317" key="GridCell.Tab.1.center/0.23.1440.877/-1920.-29.1920.967@0.23.1440.877" timestamp="1590980930626" />
+    <state width="923" height="301" key="GridCell.Tab.1.left" timestamp="1591363208789">
       <screen x="-1920" y="-29" width="1920" height="967" />
     </state>
-    <state width="923" height="298" key="GridCell.Tab.1.right/0.23.1440.787/-1920.-29.1920.1057@-1920.-29.1920.1057" timestamp="1590671057987" />
-    <state width="958" height="298" key="GridCell.Tab.1.right/0.23.1440.787@0.23.1440.787" timestamp="1590508760970" />
-    <state width="923" height="298" key="GridCell.Tab.1.right/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590740432343" />
-    <state width="958" height="231" key="GridCell.Tab.1.right/0.23.1440.877/-1920.-29.1920.967@0.23.1440.877" timestamp="1590142457771" />
+    <state width="923" height="243" key="GridCell.Tab.1.left/0.23.1440.787/-1920.-29.1920.1057@-1920.-29.1920.1057" timestamp="1591285221789" />
+    <state width="923" height="317" key="GridCell.Tab.1.left/0.23.1440.787@0.23.1440.787" timestamp="1590852567589" />
+    <state width="923" height="301" key="GridCell.Tab.1.left/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1591363208789" />
+    <state width="923" height="317" key="GridCell.Tab.1.left/0.23.1440.877/-1920.-29.1920.967@0.23.1440.877" timestamp="1590980930625" />
+    <state width="923" height="301" key="GridCell.Tab.1.right" timestamp="1591363208790">
+      <screen x="-1920" y="-29" width="1920" height="967" />
+    </state>
+    <state width="923" height="243" key="GridCell.Tab.1.right/0.23.1440.787/-1920.-29.1920.1057@-1920.-29.1920.1057" timestamp="1591285221790" />
+    <state width="923" height="317" key="GridCell.Tab.1.right/0.23.1440.787@0.23.1440.787" timestamp="1590852567589" />
+    <state width="923" height="301" key="GridCell.Tab.1.right/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1591363208790" />
+    <state width="923" height="317" key="GridCell.Tab.1.right/0.23.1440.877/-1920.-29.1920.967@0.23.1440.877" timestamp="1590980930627" />
     <state x="-1350" y="198" key="IDE.errors.dialog" timestamp="1590467125745">
       <screen x="-1920" y="-29" width="1920" height="967" />
     </state>
@@ -391,30 +519,40 @@
     <state x="221" y="88" key="SettingsEditor/0.23.1440.787@0.23.1440.787" timestamp="1590079139517" />
     <state x="-1625" y="51" key="SettingsEditor/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590121265626" />
     <state x="221" y="100" key="SettingsEditor/0.23.1440.877/-1920.-29.1920.967@0.23.1440.877" timestamp="1590055245340" />
-    <state width="500" height="476" key="SwitcherDM" timestamp="1590725412655">
+    <state width="500" height="476" key="SwitcherDM" timestamp="1591349197194">
       <screen x="-1920" y="-29" width="1920" height="967" />
     </state>
     <state width="500" height="521" key="SwitcherDM/0.23.1440.787/-1920.-29.1920.1057@-1920.-29.1920.1057" timestamp="1590199281081" />
     <state width="500" height="476" key="SwitcherDM/0.23.1440.787@0.23.1440.787" timestamp="1590161895648" />
-    <state width="500" height="476" key="SwitcherDM/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590725412655" />
+    <state width="500" height="476" key="SwitcherDM/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1591349197194" />
     <state width="500" height="436" key="SwitcherDM/0.23.1440.877/-1920.-29.1920.967@0.23.1440.877" timestamp="1590141283784" />
-    <state x="-1164" y="311" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1590076598985">
+    <state x="-1164" y="311" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1591344446266">
       <screen x="-1920" y="-29" width="1920" height="967" />
     </state>
-    <state x="-1164" y="311" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590076598985" />
-    <state x="-1112" y="239" width="586" height="548" key="find.popup" timestamp="1590201048570">
+    <state x="-1164" y="311" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1591344446266" />
+    <state x="34" y="23" width="1036" height="768" key="dock-window-1" timestamp="1591327385867">
+      <screen x="0" y="23" width="1440" height="787" />
+    </state>
+    <state x="34" y="23" width="1036" height="768" key="dock-window-1/0.23.1440.787/-1920.-29.1920.1057@-1920.-29.1920.1057" timestamp="1591327385867" />
+    <state x="34" y="23" width="1011" height="768" key="dock-window-1/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1591327040926" />
+    <state x="-1502" y="204" width="1240" height="587" key="dock-window-2" timestamp="1590886570162">
       <screen x="-1920" y="-29" width="1920" height="967" />
     </state>
-    <state x="-1112" y="239" width="586" height="548" key="find.popup/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590201048570" />
-    <state x="-1402" y="181" key="new project wizard" timestamp="1590720922259">
+    <state x="-1502" y="204" width="1240" height="587" key="dock-window-2/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590886570162" />
+    <state x="-1112" y="239" width="779" height="548" key="find.popup" timestamp="1591349312934">
       <screen x="-1920" y="-29" width="1920" height="967" />
     </state>
-    <state x="-1402" y="181" key="new project wizard/0.23.1440.787/-1920.-29.1920.1057@-1920.-29.1920.1057" timestamp="1590326381120" />
-    <state x="-1402" y="181" key="new project wizard/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590720922259" />
+    <state x="-1112" y="239" width="779" height="548" key="find.popup/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1591349312934" />
+    <state x="-1250" y="191" key="new project wizard" timestamp="1591345192829">
+      <screen x="-1920" y="-29" width="1920" height="967" />
+    </state>
+    <state x="-1403" y="71" key="new project wizard/0.23.1440.787/-1920.-29.1920.1057@-1920.-29.1920.1057" timestamp="1591328334926" />
+    <state x="-1250" y="191" key="new project wizard/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1591345192829" />
     <state x="88" y="124" key="new project wizard/0.23.1440.877/-1920.-29.1920.967@0.23.1440.877" timestamp="1590142450040" />
-    <state x="-1210" y="262" width="670" height="676" key="search.everywhere.popup" timestamp="1590304380269">
-      <screen x="-1920" y="-29" width="1920" height="967" />
+    <state x="-1210" y="289" width="670" height="739" key="search.everywhere.popup" timestamp="1591327398458">
+      <screen x="-1920" y="-29" width="1920" height="1057" />
     </state>
-    <state x="-1210" y="262" width="670" height="676" key="search.everywhere.popup/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1590304380269" />
+    <state x="-1210" y="289" width="670" height="739" key="search.everywhere.popup/0.23.1440.787/-1920.-29.1920.1057@-1920.-29.1920.1057" timestamp="1591327398458" />
+    <state x="-1210" y="262" width="670" height="676" key="search.everywhere.popup/0.23.1440.877/-1920.-29.1920.967@-1920.-29.1920.967" timestamp="1591083766952" />
   </component>
 </project>
